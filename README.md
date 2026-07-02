@@ -1,1 +1,1 @@
-# AI_strategic_planning_on_MTJ
+# AI strategic planning on MTJ
