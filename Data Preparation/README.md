@@ -1,5 +1,5 @@
 
-## workflow
+## Workflow
 
 To forecast research trends in MTJ-based neuromorphic computing, we first developed a node-based classification framework that represents the technological structure of the field. The framework defines the primary technological domains as Blue nodes and the detailed technological elements that enable or support each domain as Green nodes. Based on these node definitions, we constructed node-specific search queries and collected publication metadata through the Elsevier API. We then removed duplicate records to ensure that each publication contributed only once within each node dataset.
 
